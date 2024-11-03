@@ -2,6 +2,8 @@
 
 ## Overview
 This system is designed to optimize and automate the scheduling of maintenance tasks by processing daily maintenance logs. It leverages AI for structured data extraction and uses a deterministic scheduling algorithm to prioritize and allocate resources efficiently. The goal is to minimize operational costs and prevent severe maintenance failures in industrial settings.
+![mermaid-diagram-2024-11-03-105628](https://github.com/user-attachments/assets/6f1f1193-7724-4926-9222-4ea774d7ef65)
+
 
 ## Problem Statement
 Missed or delayed maintenance can lead to exponentially increased costs and operational inefficiencies, especially in large industrial operations. The system addresses these challenges by extracting critical maintenance data from bulk observer reports and scheduling necessary tasks based on severity and resource availability.
