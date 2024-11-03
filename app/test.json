@@ -1,0 +1,39 @@
+{'machine': {'name': 'Tesla Car Assembly Line', 'parts': [
+            {'name': 'Battery Installation System', 'issues': [
+                    {'description': 'Intermittent delays due to misalignment', 'severity': 'High', 'group': 'Electrical'
+                    }
+                ]
+            },
+            {'name': 'Fire Suppression System', 'issues': [
+                    {'description': 'Testing required', 'severity': 'High', 'group': 'Safety'
+                    }
+                ]
+            },
+            {'name': 'Conveyor System', 'issues': [
+                    {'description': 'Minor wear and tear at high-friction points', 'severity': 'Medium', 'group': 'Mechanical'
+                    }
+                ]
+            },
+            {'name': 'Laser Alignment System', 'issues': [
+                    {'description': 'Calibration required due to minor discrepancies', 'severity': 'Medium', 'group': 'Mechanical'
+                    }
+                ]
+            },
+            {'name': 'Robotic Arms', 'issues': [
+                    {'description': 'Minor calibration adjustments required', 'severity': 'Low', 'group': 'Mechanical'
+                    }
+                ]
+            },
+            {'name': 'QC Inspection Cameras', 'issues': [
+                    {'description': 'Minor software updates required', 'severity': 'Low', 'group': 'Electrical'
+                    }
+                ]
+            },
+            {'name': 'Emergency Stop Mechanisms', 'issues': [
+                    {'description': 'Functional with no issues', 'severity': 'None', 'group': 'Safety'
+                    }
+                ]
+            }
+        ]
+    }
+}
